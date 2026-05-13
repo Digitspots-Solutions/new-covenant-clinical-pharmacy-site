@@ -1,0 +1,49 @@
+{
+  "businessName": "New Covenant Clinical Pharmacy",
+  "industry": "Pharmaceutical Manufacturing",
+  "tone": "Professional and Trustworthy",
+  "tagline": "Quality Healthcare Solutions, Manufactured with Excellence",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero Section",
+      "copy": "New Covenant Clinical Pharmacy: Your Trusted Partner in Quality Pharmaceutical Manufacturing. Based in Abia State, we are committed to delivering excellence in healthcare through precision manufacturing and unwavering quality standards. Serving Nigeria with integrity and innovation.",
+      "imagePrompt": "Modern pharmaceutical manufacturing facility in Nigeria, pristine white laboratory environment with stainless steel equipment, quality control specialists in white coats examining medications, bright natural lighting through large windows, professional healthcare setting with Nigerian professionals, clean clinical aesthetic, high-tech pharmaceutical production line, photorealistic 4K quality",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "New Covenant Clinical Pharmacy is a leading pharmaceutical manufacturing company proudly located in Obehie ASA, Ukwa West LGA, Abia State. We specialize in the production of high-quality pharmaceutical products that meet international standards while serving the healthcare needs of Nigerians. Our state-of-the-art facility combines modern manufacturing technology with rigorous quality control processes to ensure that every product leaving our premises is safe, effective, and reliable. With a commitment to excellence and a deep understanding of the Nigerian healthcare landscape, we are dedicated to improving lives through accessible, affordable, and superior pharmaceutical solutions. Our team of qualified professionals works tirelessly to maintain the highest standards of pharmaceutical manufacturing, ensuring compliance with regulatory requirements and industry best practices.",
+      "imagePrompt": "Aerial view of a modern pharmaceutical manufacturing plant in rural Abia State Nigeria, surrounded by lush green landscape, contemporary industrial building with glass facade, loading bay with delivery trucks, paved compound with landscaping, Nigerian flag visible, daytime scene with clear blue sky, professional commercial photography style, establishing shot showing scale and professionalism",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Manufacturing Services",
+      "copy": "Pharmaceutical Manufacturing: We manufacture a comprehensive range of pharmaceutical products including tablets, capsules, syrups, and injectable solutions under strict GMP (Good Manufacturing Practice) standards.\n\nQuality Assurance & Control: Our dedicated quality control laboratory ensures every batch meets stringent safety and efficacy standards before reaching the market.\n\nContract Manufacturing: We offer reliable contract manufacturing services for pharmaceutical companies looking for a trusted manufacturing partner in Nigeria.\n\nRegulatory Compliance: All our products are manufactured in compliance with NAFDAC regulations and international pharmaceutical standards.\n\nResearch & Development: Our R&D team continuously works on developing new formulations and improving existing products to meet evolving healthcare needs.\n\nSupply Chain Solutions: We provide efficient distribution and supply chain management to ensure timely delivery of pharmaceutical products across Nigeria.",
+      "imagePrompt": "Split-screen composition showing different pharmaceutical manufacturing processes: quality control lab with microscopes and testing equipment, production line with tablet press machines, packaging department with sealed medication boxes, warehouse with organized inventory shelves, all featuring Nigerian healthcare professionals in appropriate safety gear, bright industrial lighting, professional pharmaceutical industry photography",
+      "layout": "grid"
+    },
+    {
+      "id": "quality",
+      "name": "Our Quality Standards",
+      "copy": "At New Covenant Clinical Pharmacy, quality is not just a promise—it's our foundation. We adhere to Good Manufacturing Practice (GMP) guidelines and maintain NAFDAC certification for all our pharmaceutical products. Our quality management system encompasses every stage of production, from raw material procurement to final product testing. We invest continuously in training our personnel, upgrading our equipment, and implementing the latest quality control technologies. Every product undergoes rigorous testing in our on-site laboratory before distribution. We maintain complete traceability for all our products and implement strict documentation procedures. Our commitment to quality ensures that healthcare providers and patients across Nigeria can trust our products with confidence.",
+      "imagePrompt": "Close-up of pharmaceutical quality control processes in Nigerian facility: gloved hands conducting precision measurements, digital testing equipment displaying results, petri dishes with samples under examination, certificates and compliance documents on display, NAFDAC approval stamps visible, professional laboratory environment with blue and white color scheme, sharp focus on quality assurance activities, corporate documentary style photography",
+      "layout": "default"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Partner with New Covenant Clinical Pharmacy for reliable pharmaceutical manufacturing solutions. Located in Obehie ASA, Ukwa West LGA, Abia State, we are readily accessible to serve your pharmaceutical needs. Our team is available to discuss manufacturing partnerships, product inquiries, and supply arrangements. Whether you're a healthcare provider, distributor, or pharmaceutical company, we welcome the opportunity to serve you with excellence. Contact us today to learn more about our manufacturing capabilities and how we can support your healthcare objectives. We look forward to building a lasting partnership with you.",
+      "imagePrompt": "Professional customer service representative in modern Nigerian pharmaceutical office, speaking on phone with welcoming smile, clean corporate office interior with pharmacy product displays in background, reception area with company branding, warm natural lighting, professional business environment in Abia State, approachable yet professional atmosphere, contemporary office photography style",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 703 839 5707",
+    "email": "info@newcovenantpharmacy.com.ng",
+    "address": "Obehie ASA, Ukwa West LGA, Abia State, Nigeria",
+    "whatsapp": "https://wa.me/2347038395707"
+  }
+}
